@@ -1,6 +1,6 @@
-# BioMEMS Laboratory @ University of Applied Sciences Aschaffenburg
+# BioMEMS Lab
 
-Welcome to the official GitHub page of the BioMEMS Laboratory at the University of Applied Sciences Aschaffenburg. This repository serves as a hub for sharing the algorithms, scripts, and tools developed by our lab for analyzing data from in vitro neuronal networks cultivated on microelectrode array (MEA) chips.
+Welcome to the official GitHub page of the BioMEMS Lab at the University of Applied Sciences Aschaffenburg. This repository serves as a hub for sharing the algorithms, scripts, and tools developed by our lab for analyzing data from in vitro neuronal networks cultivated on microelectrode array (MEA) chips.
 
 ---
 
@@ -18,7 +18,11 @@ In addition to the resources hosted here, the following repositories are associa
 
 ### [CellRex](https://github.com/cellrex/cellrex)
 
-A Python-based tool for organizing and storing data from neuronal recordings in a format that is both human- and machine-readable. This ensures efficient data handling and analysis workflows.
+A Python-based tool for organizing and storing data from neuronal recordings in a format that is both human- and machine-readable. This ensures efficient data handling and analysis workflows. 
+
+### [A-Stack](https://github.com/BranchBroxy/A-Stak)
+
+Automated Spike Train Analysis Kit A-stak is a GUI for analysing electrophysiological data. It allows to use algorithms from DrCell (MatLab) and Elephant (Python) simultaneously.
 
 ### [ML Workflow for EEG Data - Ayahuasca](https://github.com/Caroline070590/Papaer--ayahuasca)
 
@@ -31,6 +35,25 @@ A machine learning workflow developed to diagnose autism spectrum disorder based
 ### [ML Workflow for MEA Data - Bicuculline](https://github.com/ManuelCiba/spike-train-ml-bic)
 
 Python scripts for analyzing the effects of drugs, such as bicuculline, on spike trains from neuronal networks using machine learning workflows. This repository specializes in paired sample analysis (e.g., before vs. after drug application).
+
+---
+
+## Team Member's github pages
+
+
+[Caroline Alves](https://github.com/Caroline070590)
+
+[Manuel Ciba](https://github.com/ManuelCiba)
+
+[Franziska Schmitt](https://github.com/Franziska-Schmitt-th-ab-de)
+
+[Jan Hölter](https://github.com/tivenide)
+
+[Jannick Namyslo](https://github.com/jnamyslo)
+
+[Philipp Steigerwald](https://github.com/BranchBroxy)
+
+[Tim Rickmeyer](https://twinsten.github.io/)
 
 ---
 
