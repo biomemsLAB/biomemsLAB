@@ -1,12 +1,12 @@
-# BioMEMS Lab
+# Welcome
 
-Welcome to the official GitHub page of the BioMEMS Lab at the University of Applied Sciences Aschaffenburg. This repository serves as a hub for sharing the algorithms, scripts, and tools developed by our lab for analyzing data from in vitro neuronal networks cultivated on microelectrode array (MEA) chips.
+Welcome to the official GitHub page of the biomems lab at the University of Applied Sciences Aschaffenburg. This repository serves as a hub for sharing the algorithms, scripts, and tools developed by our lab for analyzing data from in vitro neuronal networks cultivated on microelectrode array (MEA) chips.
 
 ---
 
 ## About Us
 
-The BioMEMS Lab is dedicated to advancing the field of bio-microelectromechanical systems with a focus on neuroscience. Our research includes the development of tools and methodologies for studying neuronal behavior and interactions using cutting-edge technology.
+The biomems lab is dedicated to advancing the field of bio-microelectromechanical systems with a focus on neuroscience. Our research includes the development of tools and methodologies for studying neuronal behavior and interactions using cutting-edge technology.
 
 Here, you will find resources to explore, analyze, and process neuronal network data with an emphasis on reproducibility and accessibility.
 
@@ -14,7 +14,7 @@ Here, you will find resources to explore, analyze, and process neuronal network 
 
 ## Associated Repositories
 
-In addition to the resources hosted here, the following repositories are associated with the BioMEMS Lab and maintained on other GitHub pages:
+In addition to the resources hosted here, the following repositories are associated with the biomems lab and maintained on other GitHub pages:
 
 ### [CellRex](https://github.com/cellrex/cellrex)
 
