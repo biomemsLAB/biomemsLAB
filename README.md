@@ -38,7 +38,7 @@ Python scripts for analyzing the effects of drugs, such as bicuculline, on spike
 
 ---
 
-## Team Member's github pages
+## Contributors’ GitHub Pages
 
 
 [Caroline Alves](https://github.com/Caroline070590)
