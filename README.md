@@ -32,9 +32,13 @@ This repository contains Python scripts for applying machine learning techniques
 
 A machine learning workflow developed to diagnose autism spectrum disorder based on functional brain networks derived from fMRI data.
 
-### [ML Workflow for MEA Data - Bicuculline](https://github.com/ManuelCiba/spike-train-ml-bic)
+### [ML Workflow for MEA Data - Bicuculline (acute, paired samples)](https://github.com/ManuelCiba/spike-train-ml-bic)
 
-Python scripts for analyzing the effects of drugs, such as bicuculline, on spike trains from neuronal networks using machine learning workflows. This repository specializes in paired sample analysis (e.g., before vs. after drug application).
+Python scripts for analyzing the acute effects of drugs, such as bicuculline, on spike trains from neuronal networks using machine learning workflows. This repository specializes in paired sample analysis (drug was applied on all MEA chips, so comparison before vs. after drug was done for all chips).
+
+### [ML Workflow for MEA Data - BDNF (longterm, unpaired samples)](https://github.com/ManuelCiba/longterm-lsd-ml)
+
+Python scripts for analyzing the longterm effects of drugs, such as BDNF or LSD, on spike trains from neuronal networks using machine learning workflows. This repository specializes in unpaired sample analysis (half of all MEA chips were treated with a drug, the other half treated with placebo).
 
 ---
 
